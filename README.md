@@ -10,7 +10,7 @@ Naming and file-type conventions:
 
 | Problem # | Written | Coding | Assigned |
 | :-------: | :-----: | :----: | :------: |
-| 1.1 | [x] | [x] | [x] |
+| 1.1 | - [x] | - [x] | - [x] |
 | 1.1 | [x] | [x] | [x] |
 | 1.1 | [x] | [x] | [x] |
 | 1.1 | [x] | [x] | [x] |
