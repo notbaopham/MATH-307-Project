@@ -24,6 +24,7 @@ Naming and file-type conventions:
 | 2.1 | &#x2611; | :o: | &#x2611; |
 | 2.2 | &#x2611; | &#x2611; | &#x2611; |
 
-&#x2612; - Done and finished
-&#x2611; - Not yet
-:o: - Does not have a coding implementation
+Legends:
+- &#x2612; - Done and finished
+- &#x2611; - Not yet
+- :o: - Does not have a coding implementation
