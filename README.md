@@ -6,3 +6,31 @@ Naming and file-type conventions:
 - A code file should be in .py file.
 - [numberProblem]_written.pdf, or [numberProblem]_coding.py, for example, 1.1_written.pdf, or 1.1_coding.py
 - Below is a checklist for all of the problems, if they are done in coding (if possible/required), in written and the individual that it is assigned towards.
+
+
+| Problem # | Written | Coding | Assigned |
+| :-------: | :-----: | :----: | :------: |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
+| 1.1 | [x] | [x] | [x] |
