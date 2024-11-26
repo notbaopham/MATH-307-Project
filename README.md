@@ -5,12 +5,12 @@ Naming and file-type conventions:
 - Written solutions to a problem should be in .pdf
 - A code file should be in .py file.
 - [numberProblem]_written.pdf, or [numberProblem]_coding.py, for example, 1.1_written.pdf, or 1.1_coding.py
-- Below is a checklist for all of the problems, if they are done in coding (if possible/required), in written and the individual that it is assigned towards.
+- Below is a checklist for all of the problems, if they are done in coding (if possible/required), in writing and the individual it is assigned towards.
 
 When you are committing changes towards the main:
-- Do check if you have already pulled the latest - if not, then pull from the latest, then add your new problem / updated problem towards the folder
+- Do check if you have already pulled the latest - if not, then pull from the latest, and add your new problem / updated problem to the folder
 - Your commit should be - Added [numberProblem] Written / Coding, or Update [numberProblem] Written / Coding (so that I can have an easier time trying to trace back the commits), and you should be only committing one problem at a time
-- There's also a miscellaneous folder, for other files that is used within the project
+- There's also a miscellaneous folder, for other files that are used within the project
 
 
 | Problem # | Written | Coding | Assigned |
