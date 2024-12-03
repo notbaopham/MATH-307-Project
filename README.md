@@ -15,7 +15,7 @@ When you are committing changes towards the main:
 
 | Problem # | Written | Coding | Assigned |
 | :-------: | :-----: | :----: | :------: |
-| 1.1 | :x: | :o: | Fariza |
+| 1.1 | ✅ | :o: | Fariza |
 | 1.2 | :x: | :o: | Fariza |
 | 1.3 | :x: | :o: | Fariza |
 | 1.4 | :x: | :o: | Fariza |
