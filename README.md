@@ -16,23 +16,23 @@ When you are committing changes towards the main:
 | Problem # | Written | Coding | Assigned |
 | :-------: | :-----: | :----: | :------: |
 | 1.1 | ✅ | :o: | Fariza |
-| 1.2 | :x: | :o: | Fariza |
-| 1.3 | :x: | :o: | Fariza |
-| 1.4 | :x: | :o: | Fariza |
-| 1.5 | :x: | :o: | Fariza |
-| 1.6 | :x: | :x: | Bao |
-| 1.7 | :x: | :o: | Brooke |
-| 1.8 | :x: | :o: | Brooke |
-| 1.9 | :x: | :o: | Brooke |
-| 1.10.1 | :x: | :o: | Emma |
-| 1.10.2 | :x: | :o: | Emma |
-| 1.10.3 | :x: | :o: | Emma |
-| 1.10.4 | :x: | :o: | Emma |
-| 1.10.5 | :x: | :o: | Emma |
-| 1.10.6 | :x: | :o: | Emma |
+| 1.2 | ✅ | :o: | Fariza |
+| 1.3 | ✅ | :o: | Fariza |
+| 1.4 | ✅ | :o: | Fariza |
+| 1.5 | ✅ | :o: | Fariza |
+| 1.6 | :o: | ✅ | Bao |
+| 1.7 | ✅ | :o: | Brooke |
+| 1.8 | ✅ | :o: | Brooke |
+| 1.9 | ✅ | :o: | Brooke |
+| 1.10.1 | ✅ | :o: | Emma |
+| 1.10.2 | ✅ | :o: | Emma |
+| 1.10.3 | ✅ | :o: | Emma |
+| 1.10.4 | ✅ | :o: | Emma |
+| 1.10.5 | ✅ | :o: | Emma |
+| 1.10.6 | ✅ | :o: | Emma |
 | 1.11 | :x: | :o: | Brady |
 | 2.1 | :x: | :o: | Brady |
-| 2.2 | :x: | :x: | Bao |
+| 2.2 | :o: | :x: | Bao |
 
 Legends:
 - :white_check_mark: - Done and finished
