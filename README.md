@@ -30,8 +30,8 @@ When you are committing changes towards the main:
 | 1.10.4 | ✅ | :o: | Emma |
 | 1.10.5 | ✅ | :o: | Emma |
 | 1.10.6 | ✅ | :o: | Emma |
-| 1.11 | :x: | :o: | Brady |
-| 2.1 | :x: | :o: | Brady |
+| 1.11 | ✅ | :o: | Brady |
+| 2.1 | ✅ | :o: | Brady |
 | 2.2 | :o: | :x: | Bao |
 
 Legends:
