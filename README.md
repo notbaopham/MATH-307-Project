@@ -32,7 +32,7 @@ When you are committing changes towards the main:
 | 1.10.6 | ✅ | :o: | Emma |
 | 1.11 | ✅ | :o: | Brady |
 | 2.1 | ✅ | :o: | Brady |
-| 2.2 | :o: | :x: | Bao |
+| 2.2 | ✅ | :x: | Bao |
 
 Legends:
 - :white_check_mark: - Done and finished
